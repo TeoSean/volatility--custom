@@ -1,4 +1,4 @@
-#!/bin/bash python2.7
+#!/usr/bin/python2.7
 #  -*- mode: python; -*-
 #
 # Volatility
